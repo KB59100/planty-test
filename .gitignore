@@ -1,0 +1,20 @@
+# Ignorer les fichiers temporaires et les sauvegardes
+*.bak
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# Ignorer les répertoires spécifiques
+/app/public/wp-content/uploads/
+/app/public/wp-content/ai1wm-backups/
+# Backup folder for the All-in-One WP Migration plugin
+wp-content/ai1wm-backups/
+
+# Ignorer les fichiers de configuration locaux
+.vscode/
+.idea/
+
+# Ignorer les fichiers de build
+/build/
+/dist/
