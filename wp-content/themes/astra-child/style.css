@@ -44,8 +44,15 @@ li#menu-item-35 {
 }
 
 input.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-number {
-    width: 30px;
     margin-top: 10px;
+}
+
+input.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-required.wpcf7-validates-as-number {
+    width: 70px;
+}
+
+.ast-builder-menu-1 .menu-item.current-menu-item > .menu-link, .ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-1 .current-menu-ancestor > .menu-link {
+    color: white;
 }
 
 .formulaire-flex label {
