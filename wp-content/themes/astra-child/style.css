@@ -55,6 +55,14 @@ input.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-required.wpcf7-validate
     color: white;
 }
 
+li#menu-item-35 .menu-link {
+   color: white;
+}
+
+.elementor img {
+    object-fit: cover;
+}
+
 .formulaire-flex label {
     color: white;
 }
